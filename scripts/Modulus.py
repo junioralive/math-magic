@@ -1,4 +1,4 @@
-def modulus(a, b):
+def modulus_numbers(a, b):
     """
     This function takes two numbers and returns their modulus.
 
